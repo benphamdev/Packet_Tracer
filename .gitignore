@@ -29,3 +29,22 @@ build/
 # Ignore Python cache files
 __pycache__/
 *.pyc
+
+# Configure packet tracer
+
+# Ignore logs file
+logs
+
+# Ignore extensions
+extensions
+
+# Ignore templates
+templates
+
+# Ignore packet tracer files
+PT.*
+
+# Ignore packet tracer backup files
+*.bak
+
+
