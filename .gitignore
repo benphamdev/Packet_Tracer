@@ -43,6 +43,9 @@ templates
 
 # Ignore packet tracer files
 PT.*
+uuid
+PT.conf.autosave
+README.md
 
 # Ignore packet tracer backup files
 *.bak
